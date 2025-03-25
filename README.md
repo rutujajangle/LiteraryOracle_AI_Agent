@@ -1,2 +1,2 @@
 # LiteraryOracle_AI_Agent
-A RAG assistant that delivers detailed literary analyses of novels from Gutenberg.
+This repository implements a retrieval-augmented generation (RAG) system that leverages GPT‑4 via the OpenAI API, LangChain, and FAISS to deliver detailed literary analyses of texts from Project Gutenberg. The project includes specialized prompt templates for character extraction, genre classification, storyline summarization, and general literary analysis, all wrapped in a modular, class-based design with an interactive Streamlit UI for seamless exploration.
